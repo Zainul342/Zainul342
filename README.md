@@ -3,6 +3,10 @@
 
 Professional developer specializing in AI observability, distributed systems, and modern web architectures. Currently building the future of AI engineering.
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zainul342&theme=flat&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
 ---
 
 ### 🚀 Recent Open Source Impact
@@ -15,21 +19,27 @@ Professional developer specializing in AI observability, distributed systems, an
 ---
 
 ### 📊 Dynamic Insights
-<!-- This image is automatically generated daily by GitHub Actions -->
-![Metrics](https://github.com/Zainul342/Zainul342/blob/main/github-metrics.svg)
+<div align="center">
+  <img src="https://github.com/Zainul342/Zainul342/blob/main/github-metrics.svg" width="100%" />
+</div>
+
+---
+
+### 🐍 Contribution Journey
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
 ---
 
 ### 🛠️ Technology Stack
 *Minimalist tools for maximum performance.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,redis,docker,githubactions" />
+  </a>
+</p>
 
 ---
 
