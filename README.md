@@ -5,7 +5,6 @@
 <div align="center">
 <samp>
 
-# <b>Zainul Mutaqin</b>
 #### *Exploring the internals of backend systems and distributed architectures.*
 
 <br/>
