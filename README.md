@@ -1,6 +1,8 @@
 <div align="center">
 
-# Zainul Mutaqin
+<!-- Minimalist Ghibli Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7db38e&height=150&section=header&text=Zainul%20Mutaqin&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%" />
+
 **I just enjoy building software and digging into how systems work.**
 
 Most of my days are spent exploring distributed caching, backend architectures, and modern web tech. I'm especially fascinated by AI infrastructure and love giving back to the community through open source.
@@ -8,7 +10,6 @@ Most of my days are spent exploring distributed caching, backend architectures, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainmutaqin) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zainmutaqin.dev)
 
-<br/>
 <br/>
 
 ---
@@ -20,7 +21,7 @@ Most of my days are spent exploring distributed caching, backend architectures, 
   <tr>
     <td width="50%" valign="top">
       <b>🚀 Infrastructure</b><br/>
-      • <a href="https://github.com/langfuse/langfuse/pull/12157">Langfuse #12157</a>: Figuring out Redis/BullMQ decoupling<br/>
+      • <a href="https://github.com/langfuse/langfuse/pull/12157">Langfuse #12157</a>: Redis/BullMQ decoupling<br/>
       • Playing with distributed systems
     </td>
     <td width="50%" valign="top">
@@ -47,6 +48,10 @@ Most of my days are spent exploring distributed caching, backend architectures, 
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake.svg" alt="Snake" />
+<!-- Snake Animation with Miyazaki Colors -->
+<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+
+<br/>
+<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/ghibli-totoro.gif" width="100px" alt="Totoro" />
 
 </div>
