@@ -14,30 +14,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Zainul342
           template: classic
-          base: "" # TETAP MATIKAN statistik dasar (followers/stars)
+          base: "" 
           config_timezone: Asia/Jakarta
           
-          # 1. 3D Isometric Calendar (Visual Utama yang Kokoh)
+          # 1. 3D Isometric Calendar (INI YANG PALING KEREN)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           
-          # 2. Languages (Persentase Skill)
+          # 2. Languages (Skill Proof)
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, shell, php
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          plugin_languages_limit: 4
-          
-          # 3. NOTABLE CONTRIBUTIONS (The "Senior Hack")
-          # Menampilkan proyek-proyek terkenal (Dify, Langfuse) yang Anda bantu
-          plugin_notable: yes
-          plugin_notable_filter: stars:>500 # Hanya tampilkan proyek bergengsi
-          plugin_notable_from: all
-          plugin_notable_types: commit, pull_request
-          
-          # 4. LINES OF CODE (Menunjukkan Volume Kerja)
-          # Membuat 75+ file refactor Anda terlihat sangat impresif
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_repositories_limit: 4
-          plugin_lines_history_limit: 1
+          plugin_languages_limit: 5
