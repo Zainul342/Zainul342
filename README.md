@@ -2,16 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:D6EAF8&height=300&section=header&text=Zainul%20Mutaqin&fontSize=70&fontAlign=50&fontColor=ffffff&desc=Building%20software%20with%20a%20touch%20of%20magic&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/o0vwbyu9S1Wxy/giphy.gif" width="600" alt="Ghibli"/>
-  <h3>"Always believe in yourself. Do this and no matter where you are, you will have nothing to fear."</h3>
-  <p><i>— The Cat Returns</i></p>
-</div>
-
 <div align="center">
 
+# Zainul Mutaqin
 **I just enjoy building software and digging into how systems work.**
 
 Professional focusing on reliable backend systems, distributed caching, and modern web architectures. Active contributor to open-source AI infrastructure.
