@@ -14,28 +14,30 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Zainul342
           template: classic
-          base: "" # Menyembunyikan statistik jumlah repo/follower yang masih sedikit
+          base: "" # TETAP MATIKAN statistik dasar (followers/stars)
           config_timezone: Asia/Jakarta
           
-          # 1. 3D Isometric Calendar (Sudah terbukti berhasil di akun Anda)
+          # 1. 3D Isometric Calendar (Visual Utama yang Kokoh)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           
-          # 2. Languages (Menonjolkan Skill, Bukan Angka)
+          # 2. Languages (Persentase Skill)
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, shell, php
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          plugin_languages_limit: 5
+          plugin_languages_limit: 4
           
-          # 3. Activity (Versi Minimalis - Menampilkan PR Langfuse/Dify)
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 30
-          plugin_activity_filter: pr, issue, member
-          plugin_activity_visibility: public # Hanya ambil data publik agar tidak error
+          # 3. NOTABLE CONTRIBUTIONS (The "Senior Hack")
+          # Menampilkan proyek-proyek terkenal (Dify, Langfuse) yang Anda bantu
+          plugin_notable: yes
+          plugin_notable_filter: stars:>500 # Hanya tampilkan proyek bergengsi
+          plugin_notable_from: all
+          plugin_notable_types: commit, pull_request
           
-          # 4. Achievements (Piala kecil - Memberikan kesan "Award-Winning")
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C # Ambang batas rendah agar piala muncul meski baru mulai
+          # 4. LINES OF CODE (Menunjukkan Volume Kerja)
+          # Membuat 75+ file refactor Anda terlihat sangat impresif
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 1
