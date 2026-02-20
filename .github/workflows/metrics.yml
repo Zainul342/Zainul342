@@ -14,31 +14,28 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Zainul342
           template: classic
-          base: "" 
+          base: "" # Menyembunyikan statistik jumlah repo/follower yang masih sedikit
           config_timezone: Asia/Jakarta
           
-          # Fix for "Unexpected error": Ensure we use the right API endpoints
-          config_order: isocalendar, languages, achievements, activity
-          
-          # 1. 3D Isometric Calendar
+          # 1. 3D Isometric Calendar (Sudah terbukti berhasil di akun Anda)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # 2. Languages (Clean & Pro)
+          # 2. Languages (Menonjolkan Skill, Bukan Angka)
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, shell, php
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_limit: 5
           
-          # 3. GitHub Achievements (Piala-piala)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes # Agar piala dari repo private/org muncul
-          
-          # 4. Activity (Otomatis tarik PR Dify & Langfuse)
+          # 3. Activity (Versi Minimalis - Menampilkan PR Langfuse/Dify)
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 30
-          plugin_activity_filter: pr, issue
-          plugin_activity_visibility: all # Lihat aktivitas di semua repo (public/org)
+          plugin_activity_filter: pr, issue, member
+          plugin_activity_visibility: public # Hanya ambil data publik agar tidak error
+          
+          # 4. Achievements (Piala kecil - Memberikan kesan "Award-Winning")
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C # Ambang batas rendah agar piala muncul meski baru mulai
