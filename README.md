@@ -14,6 +14,12 @@ Professional developer specializing in AI observability, distributed systems, an
 
 ---
 
+### 📊 Dynamic Insights
+<!-- This image is automatically generated daily by GitHub Actions -->
+![Metrics](https://github.com/Zainul342/Zainul342/blob/main/github-metrics.svg)
+
+---
+
 ### 🛠️ Technology Stack
 *Minimalist tools for maximum performance.*
 
@@ -24,11 +30,6 @@ Professional developer specializing in AI observability, distributed systems, an
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Zen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zainul342&show_icons=true&theme=transparent&hide_border=true&title_color=000&icon_color=000&text_color=333)
 
 ---
 
