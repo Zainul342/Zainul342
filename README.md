@@ -10,7 +10,8 @@ Professional architect focusing on LLM observability, distributed systems, and m
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zainul342&theme=flat&no-bg=true&margin-w=4&rank=-C" alt="Trophies" />
+<!-- Simplified Trophy URL for better stability -->
+<img src="https://github-profile-trophy.vercel.app/?username=Zainul342&theme=flat&no-bg=true&margin-w=4" alt="Trophies" />
 
 <br/>
 
@@ -37,8 +38,8 @@ Professional architect focusing on LLM observability, distributed systems, and m
 ---
 
 ### 📊 Technical Ecosystem
-<!-- This is where the 3D isometric and dynamic stats will live -->
-<img src="https://github.com/Zainul342/Zainul342/blob/main/github-metrics.svg" width="100%" />
+<!-- Fixed: Using relative path for repo-generated images -->
+<img src="./github-metrics.svg" width="100%" alt="Technical Metrics" />
 
 ---
 
@@ -51,6 +52,7 @@ Professional architect focusing on LLM observability, distributed systems, and m
 <br/>
 <br/>
 
+<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake.svg" alt="Snake" />
 
 </div>
