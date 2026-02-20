@@ -12,23 +12,16 @@ Professional focusing on reliable backend systems, distributed caching, and mode
 
 ---
 
-### 📂 Selected Contributions
-*Engineering impact on high-growth technology platforms.*
+### 🚂 The Traveler's Log
+*A real-time record of contributions across the digital kingdom.*
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🚀 Infrastructure & Backend</b><br/>
-      • <a href="https://github.com/langfuse/langfuse/pull/12157">Langfuse #12157</a>: Redis Refactor<br/>
-      • <a href="https://github.com/langgenius/dify/pull/32433">Dify #32433</a>: DB Optimization
-    </td>
-    <td width="50%" valign="top">
-      <b>🏗️ Full-Stack & Frontend</b><br/>
-      • <a href="https://github.com/langgenius/dify/pull/32435">Dify #32435</a>: Hydration Fix<br/>
-      • Building intuitive AI interfaces
-    </td>
-  </tr>
-</table>
+<div align="left">
+
+<!-- START_SECTION:activity -->
+<!-- Bot JamesGeorge007 akan mengisi daftar PR Anda di sini secara otomatis -->
+<!-- END_SECTION:activity -->
+
+</div>
 
 ---
 
@@ -37,7 +30,7 @@ Professional focusing on reliable backend systems, distributed caching, and mode
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ The Toolkit
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,redis,docker,githubactions" />
@@ -46,7 +39,10 @@ Professional focusing on reliable backend systems, distributed caching, and mode
 <br/>
 <br/>
 
-<!-- Snake animation using raw URL -->
+<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+
+<br/>
+<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/ghibli-totoro.gif" width="80px" alt="Totoro" />
 
 </div>
