@@ -6,13 +6,13 @@
 <samp>
 
 # <b>Zainul Mutaqin</b>
-#### <i>"Just a curious mind exploring the architecture of the digital world."</i>
+#### *Exploring the internals of backend systems and distributed architectures.*
 
 <br/>
 
-**I’m fascinated by the "aha!" moments—when a complex system finally makes sense.**
+**I enjoy digging into how complex systems work and building tools that solve practical problems.**
 
-I love the process of building and deconstructing. For me, it’s a deep fascination with how bits travel through reliable backend systems and the elegant puzzles found in distributed caching. I’m not here for the titles—I’m here for the joy of tinkering with modern web architectures and the excitement of contributing to open-source AI infrastructure. I code because I’m genuinely curious about how everything works under the hood.
+For me, software is about understanding the mechanics under the hood. I have a deep interest in backend reliability, distributed caching, and the architecture of modern web applications. Currently, I spend most of my time exploring open-source AI infrastructure and learning how to build scalable systems that last. I write code because I like the challenge of figuring out how all the pieces fit together.
 
 <br/>
 
