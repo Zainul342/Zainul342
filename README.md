@@ -1,49 +1,44 @@
 <div align="center">
 
-<!-- Custom Animated Floating Sky Header -->
-<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/header.svg" width="100%" />
+# Zainul Mutaqin
+**I just enjoy building software and digging into how systems work.**
 
-<br/>
-
-"It's funny how you wake up one day and realize that you're an engineer." 🌿✨
+Most of my days are spent exploring distributed caching, backend architectures, and modern web tech. I'm especially fascinated by AI infrastructure and love giving back to the community through open source.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainmutaqin) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zainmutaqin.dev)
 
 <br/>
-<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/divider.svg" width="100%" />
-
-### 🚂 The Traveler's Log
-*Recording the impact made across the digital kingdom.*
-
-<div align="left">
-
-<!-- SOOT SPRITE AUTOMATED ACTIVITY -->
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
 <br/>
 
-**Notable Landmarks Visited:**
-• **Langfuse**: Refactored Redis/BullMQ to resolve prefix clashes. [#12157]
-• **Dify**: Optimized DB session factories across 75+ modules. [#32433]
-• **Dify**: Resolved hydration quirks in MD rendering. [#32435]
+---
 
-</div>
+### 📂 What I've been working on lately
+*Contributing to open source is my favorite way to learn.*
 
-<br/>
-<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/divider.svg" width="100%" />
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🚀 Infrastructure</b><br/>
+      • <a href="https://github.com/langfuse/langfuse/pull/12157">Langfuse #12157</a>: Figuring out Redis/BullMQ decoupling<br/>
+      • Playing with distributed systems
+    </td>
+    <td width="50%" valign="top">
+      <b>🏗️ Full-Stack</b><br/>
+      • <a href="https://github.com/langgenius/dify/pull/32433">Dify #32433</a>: Optimizing database sessions<br/>
+      • <a href="https://github.com/langgenius/dify/pull/32435">Dify #32435</a>: Fixing frontend hydration quirks
+    </td>
+  </tr>
+</table>
 
-### 🗺️ Technical Journey Map
-<!-- 3D Isometric View of Contributions -->
+---
+
+### 📊 Technical Journey
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-metrics.svg" width="100%" alt="Technical Metrics" />
 
-<br/>
-<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/divider.svg" width="100%" />
+---
 
-### 🔥 The Forge (Tech Stack)
-*Keeping the castle moving with these artifacts.*
-
+### 🛠️ Tools I use for fun
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,redis,docker,githubactions" />
@@ -52,7 +47,6 @@
 <br/>
 <br/>
 
-<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 
 <br/>
