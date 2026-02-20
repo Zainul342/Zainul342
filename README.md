@@ -5,11 +5,14 @@
 <div align="center">
 <samp>
 
-# Zainul Mutaqin
+# <b>Zainul Mutaqin</b>
+#### <i>"Just a curious mind exploring the architecture of the digital world."</i>
 
-**I’m just someone who loves the process of building and the "aha!" moments when a complex system finally makes sense.**
+<br/>
 
-I have a deep fascination with how bits travel through reliable backend systems and the elegant puzzles found in distributed caching. For me, it’s not about the titles—it’s about the joy of tinkering with modern web architectures and the excitement of contributing to the open-source AI infrastructure. I code because I’m curious about how the digital world works under the hood.
+**I’m fascinated by the "aha!" moments—when a complex system finally makes sense.**
+
+I love the process of building and deconstructing. For me, it’s a deep fascination with how bits travel through reliable backend systems and the elegant puzzles found in distributed caching. I’m not here for the titles—I’m here for the joy of tinkering with modern web architectures and the excitement of contributing to open-source AI infrastructure. I code because I’m genuinely curious about how everything works under the hood.
 
 <br/>
 
@@ -20,7 +23,7 @@ I have a deep fascination with how bits travel through reliable backend systems 
 
 ---
 
-### 🚂 The Traveler's Log
+## 🚂 **The Traveler's Log**
 *A real-time record of contributions across the digital kingdom.*
 
 <div align="left">
@@ -33,12 +36,12 @@ I have a deep fascination with how bits travel through reliable backend systems 
 
 ---
 
-### 📊 Technical Journey
+## 📊 **Technical Journey**
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-metrics.svg" width="100%" alt="Technical Metrics" />
 
 ---
 
-### 🛠️ The Toolkit
+## 🛠️ **The Toolkit**
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,redis,docker,githubactions" />
