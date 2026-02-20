@@ -10,8 +10,8 @@ Professional architect focusing on LLM observability, distributed systems, and m
 
 <br/>
 
-<!-- Simplified Trophy URL for better stability -->
-<img src="https://github-profile-trophy.vercel.app/?username=Zainul342&theme=flat&no-bg=true&margin-w=4" alt="Trophies" />
+<!-- Stable Trophy Link -->
+<img src="https://github-profile-trophy.vercel.app/?username=Zainul342&theme=flat&no-bg=true" alt="Trophies" />
 
 <br/>
 
@@ -38,8 +38,8 @@ Professional architect focusing on LLM observability, distributed systems, and m
 ---
 
 ### 📊 Technical Ecosystem
-<!-- Fixed: Using relative path for repo-generated images -->
-<img src="./github-metrics.svg" width="100%" alt="Technical Metrics" />
+<!-- Use Absolute Raw URL for stability -->
+<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-metrics.svg" width="100%" alt="Technical Metrics" />
 
 ---
 
@@ -52,7 +52,7 @@ Professional architect focusing on LLM observability, distributed systems, and m
 <br/>
 <br/>
 
-<!-- Snake Animation -->
+<!-- Snake Animation (Using Raw URL) -->
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake.svg" alt="Snake" />
 
 </div>
