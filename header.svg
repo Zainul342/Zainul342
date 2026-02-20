@@ -1,0 +1,60 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes float {
+          0% { transform: translateY(0px); }
+          50% { transform: translateY(-10px); }
+          100% { transform: translateY(0px); }
+        }
+        @keyframes moveCloud {
+          from { transform: translateX(-100px); }
+          to { transform: translateX(800px); }
+        }
+        .container {
+          font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          height: 200px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          background: linear-gradient(180deg, #a1c4fd 0%, #c2e9fb 100%);
+          border-radius: 10px;
+          overflow: hidden;
+          position: relative;
+        }
+        .title {
+          font-size: 42px;
+          font-weight: 800;
+          color: #2c3e50;
+          z-index: 10;
+          text-shadow: 2px 2px 4px rgba(255,255,255,0.5);
+          animation: float 3s ease-in-out infinite;
+        }
+        .subtitle {
+          font-size: 18px;
+          color: #34495e;
+          z-index: 10;
+          font-style: italic;
+        }
+        .cloud {
+          position: absolute;
+          background: white;
+          border-radius: 50px;
+          opacity: 0.6;
+          z-index: 1;
+        }
+        .c1 { width: 100px; height: 40px; top: 20px; animation: moveCloud 25s linear infinite; }
+        .c2 { width: 150px; height: 50px; top: 100px; animation: moveCloud 40s linear infinite; animation-delay: -10s; }
+        .c3 { width: 80px; height: 30px; top: 150px; animation: moveCloud 30s linear infinite; animation-delay: -5s; }
+      </style>
+      <div class="container">
+        <div class="cloud c1"></div>
+        <div class="cloud c2"></div>
+        <div class="cloud c3"></div>
+        <div class="title">Zainul Mutaqin</div>
+        <div class="subtitle">Architecting the AI Frontier with Curiosity</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
