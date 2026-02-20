@@ -13,34 +13,34 @@ I just enjoy building software and digging into how systems work. Most of my day
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zainmutaqin.dev)
 
 <br/>
+<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/divider.svg" width="100%" />
 
----
+### 📂 The Traveler's Log
+*Recording the impact made across the digital kingdom.*
 
-### 🪵 The Engine Room
-*Where I fuel the castle with infrastructure and backend logic.*
+<div align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ6YnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/vSdf87df8df8/giphy.gif" width="20px" /> <b>The Engine Room</b> (Infrastructure & Backend)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• <b>Langfuse</b>: <a href="https://github.com/langfuse/langfuse/pull/12157">Refactoring Redis & BullMQ</a> to resolve prefix clashes.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• <b>Dify</b>: <a href="https://github.com/langgenius/dify/pull/32433">Optimizing DB session factories</a> across 75+ modules.
 
-<p align="left">
-• <b>Langfuse</b>: <a href="https://github.com/langfuse/langfuse/pull/12157">Refactoring Redis & BullMQ</a> to resolve prefix clashes in complex distributed environments.<br/>
-• <b>Dify</b>: <a href="https://github.com/langgenius/dify/pull/32433">Optimizing database session factories</a> across 75+ core modules for better resource management.
-</p>
+<br/>
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ6YnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/vSdf87df8df8/giphy.gif" width="20px" /> <b>The Observation Deck</b> (Frontend & UX)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• <b>Dify</b>: <a href="https://github.com/langgenius/dify/pull/32435">Fixing hydration quirks</a> in Markdown rendering.
+</div>
 
-### 🔭 The Observation Deck
-*Crafting intuitive and reliable interfaces for AI systems.*
+<br/>
+<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/divider.svg" width="100%" />
 
-<p align="left">
-• <b>Dify</b>: <a href="https://github.com/langgenius/dify/pull/32435">Fixing frontend hydration quirks</a> in Markdown rendering to ensure a seamless UI experience.
-</p>
-
----
-
-### 📊 Traveler's Technical Ecosystem
+### 📊 Technical Ecosystem
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-metrics.svg" width="100%" alt="Technical Metrics" />
 
----
+<br/>
+<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/divider.svg" width="100%" />
 
-### 🛠️ The Toolkit
+### 🔥 The Forge (Tech Stack)
+*Keeping the castle moving with these artifacts.*
+
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,redis,docker,githubactions" />
@@ -49,7 +49,7 @@ I just enjoy building software and digging into how systems work. Most of my day
 <br/>
 <br/>
 
-<!-- Snake Animation with Forest Palette -->
+<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 
 <br/>
