@@ -16,17 +16,14 @@ I just enjoy building software and digging into how systems work. Most of my day
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/divider.svg" width="100%" />
 
 ### 📂 The Traveler's Log
-*Recording the impact made across the digital kingdom.*
+*A real-time record of my journey across the digital kingdom.*
 
 <div align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ6YnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/vSdf87df8df8/giphy.gif" width="20px" /> <b>The Engine Room</b> (Infrastructure & Backend)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• <b>Langfuse</b>: <a href="https://github.com/langfuse/langfuse/pull/12157">Refactoring Redis & BullMQ</a> to resolve prefix clashes.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• <b>Dify</b>: <a href="https://github.com/langgenius/dify/pull/32433">Optimizing DB session factories</a> across 75+ modules.
 
-<br/>
+<!-- START_SECTION:activity -->
+<!-- Daftar kontribusi otomatis akan muncul di sini oleh bot -->
+<!-- END_SECTION:activity -->
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ6YnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrYnR6Z3RrJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/vSdf87df8df8/giphy.gif" width="20px" /> <b>The Observation Deck</b> (Frontend & UX)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• <b>Dify</b>: <a href="https://github.com/langgenius/dify/pull/32435">Fixing hydration quirks</a> in Markdown rendering.
 </div>
 
 <br/>
@@ -39,8 +36,6 @@ I just enjoy building software and digging into how systems work. Most of my day
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/divider.svg" width="100%" />
 
 ### 🔥 The Forge (Tech Stack)
-*Keeping the castle moving with these artifacts.*
-
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,redis,docker,githubactions" />
