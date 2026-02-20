@@ -9,22 +9,18 @@ Professional focusing on reliable backend systems, distributed caching, and mode
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zainmutaqin.dev)
 
 <br/>
-
-<!-- Stable Trophy Link with different style -->
-<img src="https://github-profile-trophy.vercel.app/?username=Zainul342&theme=flat&no-bg=true&column=7" alt="Trophies" />
-
 <br/>
 
 ---
 
-### 📂 Recent Contributions
+### 📂 Recent Strategic Contributions
 *Engineering impact on high-growth AI platforms.*
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <b>🚀 Infrastructure</b><br/>
-      • <a href="https://github.com/langfuse/langfuse/pull/12157">Langfuse #12157</a>: Redis Refactor<br/>
+      • <a href="https://github.com/langfuse/langfuse/pull/12157">Langfuse #12157</a>: Redis/BullMQ Refactor<br/>
       • <a href="https://github.com/langgenius/dify/pull/32433">Dify #32433</a>: DB Optimization
     </td>
     <td width="50%" valign="top">
@@ -51,7 +47,6 @@ Professional focusing on reliable backend systems, distributed caching, and mode
 <br/>
 <br/>
 
-<!-- Snake animation using raw URL for stability -->
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake.svg" alt="Snake" />
 
 </div>
