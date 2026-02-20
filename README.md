@@ -1,27 +1,31 @@
 # Zainul Mutaqin
-**AI Systems & Fullstack Engineering**
+**AI Systems Engineering | Fullstack Development**
 
-Senior-focused developer specializing in AI observability, distributed caching systems, and robust web architectures. Currently contributing to industry-leading open-source AI infrastructure.
-
----
-
-### 🛠️ Core Stack
-`Python` • `TypeScript` • `Next.js` • `FastAPI` • `PostgreSQL` • `Redis` • `Docker`
+Focused on building scalable AI observability and distributed backend systems. 
 
 ---
 
-### 📂 Selected Open Source Contributions
-*Technical track record in large-scale AI platforms.*
-
-- **Langfuse**: Decoupled Redis connection logic to resolve infrastructure clashes in shared environments. [#12157]
-- **Dify**: Refactored database session management across 75+ modules for optimized performance. [#32433]
-- **Dify**: Resolved critical React hydration warnings in Markdown rendering components. [#32435]
+### 🛠️ Technical Arsenal
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,redis,docker,githubactions" />
+  </a>
+</p>
 
 ---
 
-### 📊 Technical Metrics
+### 📂 Strategic Open Source Impact
+<!-- Automated widget below will show your real PRs from Langfuse & Dify -->
+<!-- This looks 10x more professional than manual text -->
 <div align="center">
   <img src="https://github.com/Zainul342/Zainul342/blob/main/github-metrics.svg" width="100%" />
+</div>
+
+---
+
+### 🐍 Contribution Flow
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
 
 ---
