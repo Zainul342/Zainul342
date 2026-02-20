@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:D6EAF8&height=300&section=header&text=Zainul%20Mutaqin&fontSize=70&fontAlign=50&fontColor=ffffff&desc=Building%20software%20with%20a%20touch%20of%20magic&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:D6EAF8&height=300&section=header&text=Zainul%20Mutaqin&fontSize=70&fontAlign=50&fontColor=ffffff&desc=Driven%20by%20curiosity,%20powered%20by%20code&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 </div>
 
 <div align="center">
+<samp>
 
 # Zainul Mutaqin
-**I just enjoy building software and digging into how systems work.**
 
-Professional focusing on reliable backend systems, distributed caching, and modern web architectures. Active contributor to open-source AI infrastructure.
+**I’m just someone who loves the process of building and the "aha!" moments when a complex system finally makes sense.**
+
+I have a deep fascination with how bits travel through reliable backend systems and the elegant puzzles found in distributed caching. For me, it’s not about the titles—it’s about the joy of tinkering with modern web architectures and the excitement of contributing to the open-source AI infrastructure. I code because I’m curious about how the digital world works under the hood.
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainmutaqin) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zainmutaqin.dev)
@@ -49,4 +53,5 @@ Professional focusing on reliable backend systems, distributed caching, and mode
 <br/>
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/ghibli-totoro.gif" width="80px" alt="Totoro" />
 
+</samp>
 </div>
