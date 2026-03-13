@@ -22,18 +22,6 @@ For me, software is about understanding the mechanics under the hood. I have a d
 
 ---
 
-## 🚂 **The Traveler's Log**
-*A real-time record of contributions across the digital kingdom.*
-
-<div align="left">
-
-<!-- START_SECTION:activity -->
-<!-- Bot JamesGeorge007 akan mengisi daftar PR Anda di sini secara otomatis -->
-<!-- END_SECTION:activity -->
-
-</div>
-
----
 
 ## 📊 **Technical Journey**
 <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-metrics.svg" width="100%" alt="Technical Metrics" />
