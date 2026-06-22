@@ -10,7 +10,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zainmutaqin-181825?style=flat-square&logo=linkedin&logoColor=89b4fa&labelColor=313244)](https://linkedin.com/in/zainmutaqin)
 &nbsp;
-[![Mail](https://img.shields.io/badge/Email-contact-181825?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=313244)](mailto:zain@example.com)
+[![Mail](https://img.shields.io/badge/Email-contact-181825?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=313244)](mailto:zainulmutaqin@gmail.com)
 
 </div>
 
@@ -18,31 +18,25 @@
 
 ---
 
-### `$ ls -la ./projects`
-
-```
-drwxr-xr-x  SenYumBook        — Social platform for sharing moments
-drwxr-xr-x  ...               — More coming soon
-```
-
----
-
 ### `$ cat ./stack.conf`
 
 ```toml
 [core]
-languages = ["Go", "TypeScript", "Python"]
-databases = ["PostgreSQL", "Redis"]
-runtime   = ["Docker", "Kubernetes"]
+languages  = ["TypeScript", "JavaScript"]
+frameworks = ["React", "Next.js", "Svelte"]
+runtime    = ["Node.js", "Bun"]
+styling    = ["Tailwind CSS", "Vanilla CSS"]
 
 [tools]
 editor    = "Neovim"
 terminal  = "Ghostty"
 wm        = "bspwm"
-os        = "Arch Linux"
+os        = "Arch Linux (EndeavourOS)"
+bar       = "Polybar"
+launcher  = "Rofi"
 
 [currently_learning]
-topics = ["Distributed Systems", "Kubernetes Internals", "System Design"]
+topics = ["Full-stack Architecture", "AI Integration", "System Design"]
 ```
 
 ---
