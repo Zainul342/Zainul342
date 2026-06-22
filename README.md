@@ -1,80 +1,70 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/header.svg" width="100%" alt="Zainul Mutaqin" />
+  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/neofetch.svg" width="800" alt="neofetch"/>
 </div>
 
 <br/>
-
-<div align="right">
-  <a href="https://linkedin.com/in/zainmutaqin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://zainmutaqin.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Indonesia-🇮🇩-00A550?style=flat-square" alt="Indonesia"/>
-</div>
-
-<br/>
-
-```bash
-$ whoami
-> Backend Developer & System Engineer
-
-$ current --status
-> Exploring distributed systems, caching strategies, and system reliability.
-> Learning: Advanced Go concurrency · Kubernetes internals · System Design
-> Ask me about: Go, TypeScript, PostgreSQL, System Architecture
-```
-
-<br/>
-
-## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-isometric.svg" width="100%" alt="3D Contribution Graph"/>
-</div>
 
-<br/>
-
-## 💻 Most Used Languages
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-languages.svg" width="80%" alt="Languages"/>
-</div>
-
-<br/>
-
-## 🛠️ Toolkit
-
-**Core Languages**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,ts,py,js" height="40" alt="Core Languages"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-Zainul342-181825?style=flat-square&logo=github&logoColor=cdd6f4&labelColor=313244)](https://github.com/Zainul342)
 &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="25" alt="PostgreSQL"/>
-
-**Backend & Systems**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,linux" height="40" alt="Backend"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zainmutaqin-181825?style=flat-square&logo=linkedin&logoColor=89b4fa&labelColor=313244)](https://linkedin.com/in/zainmutaqin)
 &nbsp;
-<img src="https://img.shields.io/badge/PL/pgSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="25" alt="PL/pgSQL"/>
+[![Mail](https://img.shields.io/badge/Email-contact-181825?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=313244)](mailto:zain@example.com)
 
-**Tooling & Automation**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,githubactions,bash,terraform,nginx" height="40" alt="Tools"/></a>
-
-<br/>
-
-## 🚀 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+</div>
 
 <br/>
 
 ---
 
+### `$ ls -la ./projects`
+
+```
+drwxr-xr-x  SenYumBook        — Social platform for sharing moments
+drwxr-xr-x  ...               — More coming soon
+```
+
+---
+
+### `$ cat ./stack.conf`
+
+```toml
+[core]
+languages = ["Go", "TypeScript", "Python"]
+databases = ["PostgreSQL", "Redis"]
+runtime   = ["Docker", "Kubernetes"]
+
+[tools]
+editor    = "Neovim"
+terminal  = "Ghostty"
+wm        = "bspwm"
+os        = "Arch Linux"
+
+[currently_learning]
+topics = ["Distributed Systems", "Kubernetes Internals", "System Design"]
+```
+
+---
+
+### `$ gh stats`
+
 <div align="center">
-  <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
-  <br/><br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zainul342&theme=tokyonight&row=1&column=7&margin-w=8&no-bg=true&no-frame=true" alt="Trophies"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zainul342&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=89b4fa&hide_rank=false&count_private=true" height="165" alt="stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainul342&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6" height="165" alt="langs"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-isometric.svg" width="100%" alt="contribution graph"/>
+</div>
+
+---
+
+<div align="center">
+  <sub><code>// Talk is cheap. Show me the code. — Linus Torvalds</code></sub>
 </div>

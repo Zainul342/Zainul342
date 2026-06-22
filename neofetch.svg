@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      .bg { fill: #1e1e2e; }
+      .titlebar { fill: #181825; }
+      .dot-r { fill: #f38ba8; }
+      .dot-y { fill: #f9e2af; }
+      .dot-g { fill: #a6e3a1; }
+      .label { fill: #89b4fa; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700; }
+      .value { fill: #cdd6f4; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+      .sep   { fill: #6c7086; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+      .user  { fill: #a6e3a1; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700; }
+      .host  { fill: #cba6f7; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700; }
+      .line  { fill: #45475a; }
+      .arch1 { fill: #89b4fa; }
+      .arch2 { fill: #7287fd; }
+    </style>
+    <clipPath id="roundedClip">
+      <rect width="800" height="340" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="340" rx="12" ry="12" class="bg"/>
+
+  <!-- Titlebar -->
+  <rect width="800" height="36" rx="12" ry="12" class="titlebar" clip-path="url(#roundedClip)"/>
+  <rect y="18" width="800" height="18" class="titlebar"/>
+
+  <!-- Window dots -->
+  <circle cx="20" cy="18" r="6" class="dot-r"/>
+  <circle cx="40" cy="18" r="6" class="dot-y"/>
+  <circle cx="60" cy="18" r="6" class="dot-g"/>
+
+  <!-- Window title -->
+  <text x="400" y="23" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#6c7086">zainm@archlinux — bash</text>
+
+  <!-- Divider line -->
+  <rect x="0" y="36" width="800" height="1" class="line"/>
+
+  <!-- Arch Linux ASCII Art (left side) -->
+  <!-- Classic Arch triangle logo in text form -->
+  <text x="40" y="80"  class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">        /\</text>
+  <text x="40" y="96"  class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">       /  \</text>
+  <text x="40" y="112" class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">      / /\ \</text>
+  <text x="40" y="128" class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">     / /  \ \</text>
+  <text x="40" y="144" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">    / /  __\ \</text>
+  <text x="40" y="160" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">   / /___\  \ \</text>
+  <text x="40" y="176" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">  /________\ \ \</text>
+  <text x="40" y="192" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700"> /___________\/</text>
+
+  <!-- Color palette dots -->
+  <circle cx="50"  cy="230" r="7" fill="#f38ba8"/>
+  <circle cx="68"  cy="230" r="7" fill="#fab387"/>
+  <circle cx="86"  cy="230" r="7" fill="#f9e2af"/>
+  <circle cx="104" cy="230" r="7" fill="#a6e3a1"/>
+  <circle cx="122" cy="230" r="7" fill="#89dceb"/>
+  <circle cx="140" cy="230" r="7" fill="#89b4fa"/>
+  <circle cx="158" cy="230" r="7" fill="#cba6f7"/>
+  <circle cx="176" cy="230" r="7" fill="#cdd6f4"/>
+
+  <!-- Vertical separator -->
+  <rect x="230" y="52" width="1" height="270" fill="#313244"/>
+
+  <!-- Right side: Info -->
+  <!-- user@host -->
+  <text x="260" y="80">
+    <tspan class="user">zainm</tspan>
+    <tspan class="sep">@</tspan>
+    <tspan class="host">archlinux</tspan>
+  </text>
+  <rect x="260" y="88" width="180" height="1" fill="#313244"/>
+
+  <!-- Info rows -->
+  <text x="260" y="112"><tspan class="label">OS</tspan><tspan class="sep">       : </tspan><tspan class="value">Arch Linux x86_64</tspan></text>
+  <text x="260" y="130"><tspan class="label">WM</tspan><tspan class="sep">       : </tspan><tspan class="value">bspwm</tspan></text>
+  <text x="260" y="148"><tspan class="label">Shell</tspan><tspan class="sep">     : </tspan><tspan class="value">zsh + starship</tspan></text>
+  <text x="260" y="166"><tspan class="label">Terminal</tspan><tspan class="sep">  : </tspan><tspan class="value">Ghostty</tspan></text>
+  <text x="260" y="184"><tspan class="label">Editor</tspan><tspan class="sep">    : </tspan><tspan class="value">Neovim (kickstart)</tspan></text>
+  <text x="260" y="202"><tspan class="label">Theme</tspan><tspan class="sep">     : </tspan><tspan class="value">Catppuccin Mocha</tspan></text>
+  <text x="260" y="220"><tspan class="label">Bar</tspan><tspan class="sep">       : </tspan><tspan class="value">Polybar + Rofi</tspan></text>
+
+  <!-- Separator -->
+  <rect x="260" y="232" width="490" height="1" fill="#313244"/>
+
+  <!-- Focus section -->
+  <text x="260" y="256"><tspan class="label">Focus</tspan><tspan class="sep">     : </tspan><tspan class="value">Backend · Distributed Systems</tspan></text>
+  <text x="260" y="274"><tspan class="label">Stack</tspan><tspan class="sep">     : </tspan><tspan class="value">Go · TypeScript · PostgreSQL</tspan></text>
+  <text x="260" y="292"><tspan class="label">Learning</tspan><tspan class="sep">  : </tspan><tspan class="value">Kubernetes · System Design</tspan></text>
+  <text x="260" y="310"><tspan class="label">Location</tspan><tspan class="sep">  : </tspan><tspan class="value">Indonesia 🇮🇩</tspan></text>
+</svg>
