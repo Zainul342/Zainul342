@@ -1,47 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:D6EAF8&height=300&section=header&text=Zainul%20Mutaqin&fontSize=70&fontAlign=50&fontColor=ffffff&desc=Driven%20by%20curiosity,%20powered%20by%20code&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/header.svg" width="100%" alt="Zainul Mutaqin Header" />
 </div>
 
+<br/>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="top">
+    <!-- Left Column (40%) -->
+    <td width="40%" style="padding-right: 20px; border: none;">
+      
+      <h3>👤 ABOUT ME</h3>
+      <p>Backend Developer &amp; System Engineer with a passion for building scalable, reliable, and observable systems. Currently exploring distributed systems, caching strategies, and system reliability.</p>
+      
+      <ul>
+        <li>🎯 <b>Focus:</b> Backend • Distributed Systems • Reliability</li>
+        <li>📍 <b>Location:</b> Indonesia</li>
+        <li>🎓 <b>Currently learning:</b> System Design • Go • Kubernetes</li>
+        <li>💬 <b>Ask me about:</b> Go, TypeScript, System Architecture</li>
+        <li>⚡ <b>Fun fact:</b> I enjoy debugging more than writing logs</li>
+      </ul>
+      
+      <br/>
+      
+      <h3>🛠️ TOOLKIT</h3>
+      
+      <h4>🧠 Core Language</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,go,py,js,postgres" height="40" alt="Core Languages" />
+      </a>
+      
+      <h4>⚙️ Backend &amp; System</h4>
+      <div style="display: flex; align-items: center; gap: 6px;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="40" style="vertical-align: middle;" alt="Docker &amp; K8s" />
+        </a>
+        <img src="https://img.shields.io/badge/PL/pgSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="40" style="vertical-align: middle; border-radius: 8px;" alt="PL/pgSQL" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=redis,linux" height="40" style="vertical-align: middle;" alt="Redis &amp; Linux" />
+        </a>
+      </div>
+      
+      <h4>🔧 Tools &amp; Automation</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github,githubactions,bash,terraform,nginx" height="40" alt="Tools" />
+      </a>
+      
+      <br/><br/>
+      
+      <h3>🔥 WHAT I'M DOING RIGHT NOW</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zainul342&layout=compact&langs_count=8&theme=tokyonight" width="100%" alt="Wakatime Stats" />
+      </a>
+      
+    </td>
+    
+    <!-- Right Column (60%) -->
+    <td width="60%" style="padding-left: 20px; border-left: 1px solid #30363d; border-top: none; border-right: none; border-bottom: none;">
+      
+      <h3>📊 3D CONTRIBUTIONS</h3>
+      <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-isometric.svg" width="100%" alt="3D Isometric Calendar" />
+      
+      <br/><br/>
+      
+      <h3>💻 MOST USED LANGUAGES</h3>
+      <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-languages.svg" width="100%" alt="Most Used Languages" />
+      
+      <br/><br/>
+      
+      <h3>🚀 RECENT ACTIVITY</h3>
+      <!--START_SECTION:activity-->
+      <!--END_SECTION:activity-->
+      
+    </td>
+  </tr>
+</table>
+
+<br/>
+<hr style="border: 0; border-top: 1px solid #30363d;" />
+<br/>
+
 <div align="center">
-<samp>
-
-#### *Exploring the internals of backend systems and distributed architectures.*
-
-<br/>
-
-**I enjoy digging into how complex systems work and building tools that solve practical problems.**
-
-For me, software is about understanding the mechanics under the hood. I have a deep interest in backend reliability, distributed caching, and the architecture of modern web applications. Currently, I spend most of my time exploring open-source AI infrastructure and learning how to build scalable systems that last. I write code because I like the challenge of figuring out how all the pieces fit together.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainmutaqin) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zainmutaqin.dev)
-
-<br/>
-
----
-
-
-## 📊 **Technical Journey**
-<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-metrics.svg" width="100%" alt="Technical Metrics" />
-
----
-
-## 🛠️ **The Toolkit**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,postgres,redis,docker,githubactions" />
-</a>
-
-<br/>
-<br/>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-
-<br/>
-<img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/ghibli-totoro.gif" width="80px" alt="Totoro" />
-
-</samp>
+  <p><i>"Talk is cheap. Show me the code."</i></p>
+  <p><b>- Linus Torvalds</b></p>
+  
+  <br/>
+  
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Zainul342&theme=tokyonight&row=1&column=8" alt="GitHub Profile Trophies" />
+  </a>
 </div>
