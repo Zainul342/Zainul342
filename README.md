@@ -60,7 +60,7 @@ topics = ["Distributed Systems", "Kubernetes Internals", "System Design"]
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/main/github-isometric.svg" width="100%" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainul342&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cba6f7&area=true&area_color=89b4fa&hide_border=true" width="100%" alt="contribution graph"/>
 </div>
 
 ---
