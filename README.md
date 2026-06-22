@@ -14,6 +14,15 @@
 
 </div>
 
+```bash
+$ whoami
+> IT Student @ Universitas Brawijaya
+> Full-stack Web Explorer (TS/JS)
+
+$ current --status
+> Returning to computer science basics while building web apps.
+```
+
 <br/>
 
 ---
@@ -36,7 +45,7 @@ bar       = "Polybar"
 launcher  = "Rofi"
 
 [currently_learning]
-topics = ["Full-stack Architecture", "AI Integration", "System Design"]
+topics = ["Computer Science Fundamentals", "Algorithms & Data Structures", "Web Architecture"]
 ```
 
 ---
