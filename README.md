@@ -69,6 +69,16 @@
       
       <h3>🚀 RECENT ACTIVITY</h3>
       <!--START_SECTION:activity-->
+1. 💪 Opened PR [#18](https://github.com/Zainul342/SenYumBook/pull/18) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+2. 🎉 Merged PR [#17](https://github.com/Zainul342/SenYumBook/pull/17) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+3. 💪 Opened PR [#17](https://github.com/Zainul342/SenYumBook/pull/17) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+4. 💪 Opened PR [#16](https://github.com/Zainul342/SenYumBook/pull/16) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+5. 💪 Opened PR [#15](https://github.com/Zainul342/SenYumBook/pull/15) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+6. 🎉 Merged PR [#14](https://github.com/Zainul342/SenYumBook/pull/14) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+7. 💪 Opened PR [#14](https://github.com/Zainul342/SenYumBook/pull/14) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+8. 🎉 Merged PR [#13](https://github.com/Zainul342/SenYumBook/pull/13) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+9. 💪 Opened PR [#13](https://github.com/Zainul342/SenYumBook/pull/13) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
+10. 💪 Opened PR [#12](https://github.com/Zainul342/SenYumBook/pull/12) in [Zainul342/SenYumBook](https://github.com/Zainul342/SenYumBook)
       <!--END_SECTION:activity-->
       
     </td>
