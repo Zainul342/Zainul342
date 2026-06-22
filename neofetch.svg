@@ -73,20 +73,21 @@
   <rect x="260" y="88" width="180" height="1" fill="#313244"/>
 
   <!-- Info rows -->
-  <text x="260" y="112"><tspan class="label">OS</tspan><tspan class="sep">       : </tspan><tspan class="value">Arch Linux x86_64</tspan></text>
-  <text x="260" y="130"><tspan class="label">WM</tspan><tspan class="sep">       : </tspan><tspan class="value">bspwm</tspan></text>
-  <text x="260" y="148"><tspan class="label">Shell</tspan><tspan class="sep">     : </tspan><tspan class="value">zsh + starship</tspan></text>
-  <text x="260" y="166"><tspan class="label">Terminal</tspan><tspan class="sep">  : </tspan><tspan class="value">Ghostty</tspan></text>
-  <text x="260" y="184"><tspan class="label">Editor</tspan><tspan class="sep">    : </tspan><tspan class="value">Neovim (kickstart)</tspan></text>
-  <text x="260" y="202"><tspan class="label">Theme</tspan><tspan class="sep">     : </tspan><tspan class="value">Catppuccin Mocha</tspan></text>
-  <text x="260" y="220"><tspan class="label">Bar</tspan><tspan class="sep">       : </tspan><tspan class="value">Polybar + Rofi</tspan></text>
+  <text x="260" y="104"><tspan class="label">OS</tspan><tspan class="sep">       : </tspan><tspan class="value">Arch Linux (EndeavourOS)</tspan></text>
+  <text x="260" y="122"><tspan class="label">Uni</tspan><tspan class="sep">      : </tspan><tspan class="value">Universitas Brawijaya</tspan></text>
+  <text x="260" y="140"><tspan class="label">Major</tspan><tspan class="sep">    : </tspan><tspan class="value">Information Technology</tspan></text>
+  <text x="260" y="158"><tspan class="label">Shell</tspan><tspan class="sep">    : </tspan><tspan class="value">zsh + starship</tspan></text>
+  <text x="260" y="176"><tspan class="label">Terminal</tspan><tspan class="sep"> : </tspan><tspan class="value">Ghostty</tspan></text>
+  <text x="260" y="194"><tspan class="label">Editor</tspan><tspan class="sep">   : </tspan><tspan class="value">Neovim (kickstart)</tspan></text>
+  <text x="260" y="212"><tspan class="label">Theme</tspan><tspan class="sep">    : </tspan><tspan class="value">Catppuccin Mocha</tspan></text>
+  <text x="260" y="230"><tspan class="label">WM/Bar</tspan><tspan class="sep">   : </tspan><tspan class="value">bspwm + Polybar</tspan></text>
 
   <!-- Separator -->
-  <rect x="260" y="232" width="490" height="1" fill="#313244"/>
+  <rect x="260" y="242" width="490" height="1" fill="#313244"/>
 
   <!-- Focus section -->
-  <text x="260" y="256"><tspan class="label">Focus</tspan><tspan class="sep">     : </tspan><tspan class="value">Full-stack Web Development</tspan></text>
-  <text x="260" y="274"><tspan class="label">Stack</tspan><tspan class="sep">     : </tspan><tspan class="value">TypeScript · React · Next.js</tspan></text>
-  <text x="260" y="292"><tspan class="label">Learning</tspan><tspan class="sep">  : </tspan><tspan class="value">AI Integration · System Design</tspan></text>
-  <text x="260" y="310"><tspan class="label">Location</tspan><tspan class="sep">  : </tspan><tspan class="value">Indonesia 🇮🇩</tspan></text>
+  <text x="260" y="264"><tspan class="label">Focus</tspan><tspan class="sep">    : </tspan><tspan class="value">Full-stack Web (TS/JS)</tspan></text>
+  <text x="260" y="282"><tspan class="label">Learning</tspan><tspan class="sep"> : </tspan><tspan class="value">CS Basics · Data Structures</tspan></text>
+  <text x="260" y="300"><tspan class="label">Status</tspan><tspan class="sep">   : </tspan><tspan class="value">Exploring new horizons</tspan></text>
+  <text x="260" y="318"><tspan class="label">Location</tspan><tspan class="sep"> : </tspan><tspan class="value">Malang, Indonesia 🇮🇩</tspan></text>
 </svg>
