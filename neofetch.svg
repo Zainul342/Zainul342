@@ -39,20 +39,11 @@
   <!-- Divider line -->
   <rect x="0" y="36" width="800" height="1" class="line"/>
 
-  <!-- Arch Linux ASCII Art (left side) -->
-  <!-- Classic 12-line Arch neofetch logo (Trimmed 8 leading spaces) -->
-  <text x="35" y="65"  xml:space="preserve" class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">           /\</text>
-  <text x="35" y="81"  xml:space="preserve" class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">          /  \</text>
-  <text x="35" y="97"  xml:space="preserve" class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">         /\   \</text>
-  <text x="35" y="113" xml:space="preserve" class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">        /      \</text>
-  <text x="35" y="129" xml:space="preserve" class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">       /   _    \</text>
-  <text x="35" y="145" xml:space="preserve" class="arch1" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">      /   ( )    \</text>
-  <text x="35" y="161" xml:space="preserve" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">     /   /   \    \</text>
-  <text x="35" y="177" xml:space="preserve" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">    /   /     \    \</text>
-  <text x="35" y="193" xml:space="preserve" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">   /    \_   _/     \</text>
-  <text x="35" y="209" xml:space="preserve" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">  /      \_ _/       \</text>
-  <text x="35" y="225" xml:space="preserve" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700"> /        \_/         \</text>
-  <text x="35" y="241" xml:space="preserve" class="arch2" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700">/______________________\</text>
+  <!-- Cute Couple Neko ASCII Art (left side) -->
+  <text x="30" y="105" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">      へ  <tspan fill="#f38ba8">♡</tspan>  ╱|、</text>
+  <text x="30" y="130" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">   ૮ - ՛)   (` - 7</text>
+  <text x="30" y="155" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">    /⁻ ៸|   |、՛〵</text>
+  <text x="30" y="180" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">乀(ˍ,ل  ل   じしˍ,)ノ</text>
 
   <!-- Color palette dots -->
   <circle cx="40"  cy="275" r="7" fill="#f38ba8"/>
