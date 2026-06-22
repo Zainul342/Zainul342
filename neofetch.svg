@@ -85,8 +85,8 @@
   <rect x="260" y="232" width="490" height="1" fill="#313244"/>
 
   <!-- Focus section -->
-  <text x="260" y="256"><tspan class="label">Focus</tspan><tspan class="sep">     : </tspan><tspan class="value">Backend · Distributed Systems</tspan></text>
-  <text x="260" y="274"><tspan class="label">Stack</tspan><tspan class="sep">     : </tspan><tspan class="value">Go · TypeScript · PostgreSQL</tspan></text>
-  <text x="260" y="292"><tspan class="label">Learning</tspan><tspan class="sep">  : </tspan><tspan class="value">Kubernetes · System Design</tspan></text>
+  <text x="260" y="256"><tspan class="label">Focus</tspan><tspan class="sep">     : </tspan><tspan class="value">Full-stack Web Development</tspan></text>
+  <text x="260" y="274"><tspan class="label">Stack</tspan><tspan class="sep">     : </tspan><tspan class="value">TypeScript · React · Next.js</tspan></text>
+  <text x="260" y="292"><tspan class="label">Learning</tspan><tspan class="sep">  : </tspan><tspan class="value">AI Integration · System Design</tspan></text>
   <text x="260" y="310"><tspan class="label">Location</tspan><tspan class="sep">  : </tspan><tspan class="value">Indonesia 🇮🇩</tspan></text>
 </svg>
