@@ -8,9 +8,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zainul342-181825?style=flat-square&logo=github&logoColor=cdd6f4&labelColor=313244)](https://github.com/Zainul342)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zainmutaqin-181825?style=flat-square&logo=linkedin&logoColor=89b4fa&labelColor=313244)](https://linkedin.com/in/zainmutaqin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zainul--mutaqin-181825?style=flat-square&logo=linkedin&logoColor=89b4fa&labelColor=313244)](https://www.linkedin.com/in/zainul-mutaqin/)
 &nbsp;
-[![Mail](https://img.shields.io/badge/Email-contact-181825?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=313244)](mailto:zainulmutaqin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zainulmutaqin-181825?style=flat-square&logo=vercel&logoColor=a6e3a1&labelColor=313244)](https://zainulmutaqin.vercel.app/)
+&nbsp;
+[![Mail](https://img.shields.io/badge/Email-contact-181825?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=313244)](mailto:akuzainul176@gmail.com)
 
 </div>
 
