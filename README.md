@@ -56,16 +56,16 @@ topics = ["Computer Science Fundamentals", "Algorithms & Data Structures", "Web 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Zainul342&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=89b4fa&hide_rank=false&count_private=true&v=7" height="165" alt="stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Zainul342&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=89b4fa&hide_rank=false&count_private=true&v=8" height="165" alt="stats"/>
 &nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zainul342&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&v=7" height="165" alt="langs"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zainul342&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&v=8" height="165" alt="langs"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainul342&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cba6f7&area=true&area_color=89b4fa&hide_border=true" width="100%" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainul342&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cba6f7&area=true&area_color=89b4fa&hide_border=true&v=2" width="100%" alt="contribution graph"/>
 </div>
 
 ---
