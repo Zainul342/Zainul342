@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  workflow_dispatch: # Disabled automatic schedule and push triggers, manual run only
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
