@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="neofetch.svg" width="800" alt="neofetch"/>
+  <img src="neofetch.svg?v=3" width="800" alt="neofetch"/>
 </div>
 
 <br/>
