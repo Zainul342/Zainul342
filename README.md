@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
+  <h3>Tech Stack & Tools</h3>
   
   <p>
     <img src="https://img.shields.io/badge/TypeScript-cba6f7?style=for-the-badge&logo=typescript&logoColor=1e1e2e&labelColor=cba6f7" alt="TypeScript"/>
