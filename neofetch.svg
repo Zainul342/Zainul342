@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      <![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
       .bg { fill: #1e1e2e; }
       .titlebar { fill: #181825; }
       .dot-r { fill: #f38ba8; }
@@ -15,6 +16,7 @@
       .line  { fill: #45475a; }
       .arch1 { fill: #89b4fa; }
       .arch2 { fill: #7287fd; }
+      ]]>
     </style>
     <clipPath id="roundedClip">
       <rect width="800" height="340" rx="12" ry="12"/>

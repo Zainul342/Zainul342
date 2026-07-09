@@ -67,7 +67,7 @@
 <br/>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" height="280" alt="3d contribution calendar"/>
+  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake.svg" alt="github contribution grid snake"/>
 </div>
 
 ---
