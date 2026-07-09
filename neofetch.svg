@@ -40,10 +40,10 @@
   <rect x="0" y="36" width="800" height="1" class="line"/>
 
   <!-- Cute Couple Neko ASCII Art (left side) -->
-  <text x="30" y="105" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">      へ  <tspan fill="#f38ba8">♡</tspan>  ╱|、</text>
-  <text x="30" y="130" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">   ૮ - ՛)   (` - 7</text>
-  <text x="30" y="155" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">    /⁻ ៸|   |、՛〵</text>
-  <text x="30" y="180" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">乀(ˍ,ل  ل   じしˍ,)ノ</text>
+  <text x="30" y="105" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">      &#12408;  <tspan fill="#f38ba8">&#9825;</tspan>  &#9585;|&#12289;</text>
+  <text x="30" y="130" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">   &#2798; - &#1371;)   (` - 7</text>
+  <text x="30" y="155" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">    /&#8315; &#6136;|   |&#12289;&#1371;&#12341;</text>
+  <text x="30" y="180" xml:space="preserve" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#f5e0dc">&#20032;(&#717;,&#1604; &#8201;&#1604;   &#12376;&#12375;&#717;,)&#12494;</text>
 
   <!-- Color palette dots -->
   <circle cx="40"  cy="275" r="7" fill="#f38ba8"/>
