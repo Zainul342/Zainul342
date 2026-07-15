@@ -72,46 +72,13 @@
 
 ---
 
-### 🏆 Certifications & Badges
+### $ certifications
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="220" valign="top">
-        <a href="https://www.credly.com/go/mGk0SmWX" target="_blank">
-          <img src="https://img.shields.io/badge/IBM-Build_an_AI_Agent-cba6f7?style=for-the-badge&logo=ibm&logoColor=1e1e2e" height="30"/>
-        </a><br/><br/>
-        <b>Build an AI Agent</b><br/>
-        <sub>04 Jul 2026 • Credly Badge</sub>
-      </td>
-      <td align="center" width="220" valign="top">
-        <a href="./achieve/Completion%20Certificate%20_%20SkillsBuild3.pdf" target="_blank">
-          <img src="https://img.shields.io/badge/IBM-Intelligent_by_Design-89b4fa?style=for-the-badge&logo=ibm&logoColor=1e1e2e" height="30"/>
-        </a><br/><br/>
-        <b>Intelligent by Design</b><br/>
-        <sub>04 Jul 2026 • 3.5 hrs</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="220" valign="top">
-        <a href="./achieve/Completion%20Certificate%20_%20SkillsBuild.pdf" target="_blank">
-          <img src="https://img.shields.io/badge/IBM-LLM_Introduction-a6e3a1?style=for-the-badge&logo=ibm&logoColor=1e1e2e" height="30"/>
-        </a><br/><br/>
-        <b>Intro to LLMs</b><br/>
-        <sub>02 Jul 2026 • 1.5 hrs</sub>
-      </td>
-      <td align="center" width="220" valign="top">
-        <a href="./achieve/Completion%20Certificate%20_%20SkillsBuild2.pdf" target="_blank">
-          <img src="https://img.shields.io/badge/IBM-Code_Troubleshoot-f9e2af?style=for-the-badge&logo=ibm&logoColor=1e1e2e" height="30"/>
-        </a><br/><br/>
-        <b>Troubleshoot with Bob</b><br/>
-        <sub>02 Jul 2026 • 30 mins</sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
+**IBM SkillsBuild**
+- Build an AI Agent — `04 Jul 2026` • [Verify Credly](https://www.credly.com/go/mGk0SmWX)
+- Intelligent by Design: Build an AI Agent — `04 Jul 2026` • 3.5 hrs • [View Certificate](./achieve/Completion%20Certificate%20_%20SkillsBuild3.pdf)
+- Introduction to Large Language Models — `02 Jul 2026` • 1.5 hrs • [View Certificate](./achieve/Completion%20Certificate%20_%20SkillsBuild.pdf)
+- Lab: Troubleshoot Your Code Using IBM Bob — `02 Jul 2026` • 30 mins • [View Certificate](./achieve/Completion%20Certificate%20_%20SkillsBuild2.pdf)
 
 ---
 
