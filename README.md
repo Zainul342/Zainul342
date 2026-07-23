@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Zainul342-181825?style=flat-square&logo=github&logoColor=cdd6f4&labelColor=313244)](https://github.com/Zainul342)
+[![GitHub](https://img.shields.io/badge/GitHub-zaincyty-181825?style=flat-square&logo=github&logoColor=cdd6f4&labelColor=313244)](https://github.com/zaincyty)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zainul--mutaqin-181825?style=flat-square&logo=linkedin&logoColor=89b4fa&labelColor=313244)](https://www.linkedin.com/in/zainul-mutaqin/)
 &nbsp;
