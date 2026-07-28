@@ -67,13 +67,13 @@
 
 <div align="center">
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zainul342&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&v=10" height="165" alt="langs"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zaincyty&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&v=10" height="165" alt="langs"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zainul342/Zainul342/output/github-contribution-grid-snake.svg" alt="github contribution grid snake"/>
+  <img src="https://raw.githubusercontent.com/zaincyty/zaincyty/output/github-contribution-grid-snake.svg" alt="github contribution grid snake"/>
 </div>
 
 ---
