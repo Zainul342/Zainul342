@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="neofetch.svg?v=3" width="800" alt="neofetch"/>
+  <img src="neofetch.svg?v=4" width="800" alt="neofetch"/>
 </div>
 
 <br/>
@@ -21,9 +21,10 @@
 [![Mail](https://img.shields.io/badge/Email-contact-181825?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=313244)](mailto:akuzainul176@gmail.com)
 
 </div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Zainul+Mutaqin;IT+Student+@+Universitas+Brawijaya;Exploring+new+tech+%26+building+web+apps..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Zainul+Mutaqin;Fullstack+Developer;IT+Student+@+Universitas+Brawijaya;Focusing+on+Java+%26+Cybersecurity..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,63 +32,62 @@
 
 ---
 
+### 🎯 About Me & Current Focus
+
+- 🎓 **IT Student** at **Universitas Brawijaya**
+- 💻 **Fullstack Developer** specialized in **Next.js, TypeScript, & Modern Web Architecture**
+- 🔒 **Current Learning Goals**: Deepening **Java** backend systems & **Cybersecurity (InfoSec)**
+- ⚙️ **Daily Driver**: CachyOS Linux + Hyprland (Wayland) + Alacritty + Zsh (Powerlevel10k)
+- 🧠 **AI & Automation**: Powering development with **Graphify AI Knowledge Graph**, **OpenCode CLI**, **Antigravity CLI**, **Herdr**, and **Obsidian**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <h3>Tech Stack & Tools</h3>
   
+  <p><b>Languages & Core</b></p>
   <p>
     <img src="https://img.shields.io/badge/TypeScript-cba6f7?style=for-the-badge&logo=typescript&logoColor=1e1e2e&labelColor=cba6f7" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/JavaScript-cba6f7?style=for-the-badge&logo=javascript&logoColor=1e1e2e&labelColor=cba6f7" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Java_(Learning)-fab387?style=for-the-badge&logo=openjdk&logoColor=1e1e2e&labelColor=fab387" alt="Java"/>
     <img src="https://img.shields.io/badge/HTML5-cba6f7?style=for-the-badge&logo=html5&logoColor=1e1e2e&labelColor=cba6f7" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-cba6f7?style=for-the-badge&logo=css3&logoColor=1e1e2e&labelColor=cba6f7" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Apps_Script-cba6f7?style=for-the-badge&logo=google-sheets&logoColor=1e1e2e&labelColor=cba6f7" alt="Apps Script"/>
   </p>
   
+  <p><b>Frameworks & Runtimes</b></p>
   <p>
-    <img src="https://img.shields.io/badge/React-89b4fa?style=for-the-badge&logo=react&logoColor=1e1e2e&labelColor=89b4fa" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-89b4fa?style=for-the-badge&logo=nextdotjs&logoColor=1e1e2e&labelColor=89b4fa" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/React-89b4fa?style=for-the-badge&logo=react&logoColor=1e1e2e&labelColor=89b4fa" alt="React"/>
     <img src="https://img.shields.io/badge/Svelte-89b4fa?style=for-the-badge&logo=svelte&logoColor=1e1e2e&labelColor=89b4fa" alt="Svelte"/>
     <img src="https://img.shields.io/badge/Node.js-89b4fa?style=for-the-badge&logo=nodedotjs&logoColor=1e1e2e&labelColor=89b4fa" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Bun-89b4fa?style=for-the-badge&logo=bun&logoColor=1e1e2e&labelColor=89b4fa" alt="Bun"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-89b4fa?style=for-the-badge&logo=tailwindcss&logoColor=1e1e2e&labelColor=89b4fa" alt="Tailwind CSS"/>
   </p>
 
+  <p><b>Environment & Workflows</b></p>
   <p>
-    <img src="https://img.shields.io/badge/Neovim-f9e2af?style=for-the-badge&logo=neovim&logoColor=1e1e2e&labelColor=f9e2af" alt="Neovim"/>
-    <img src="https://img.shields.io/badge/Ghostty-f9e2af?style=for-the-badge&logo=ghost&logoColor=1e1e2e&labelColor=f9e2af" alt="Ghostty"/>
-    <img src="https://img.shields.io/badge/EndeavourOS-f9e2af?style=for-the-badge&logo=endeavouros&logoColor=1e1e2e&labelColor=f9e2af" alt="EndeavourOS"/>
-    <img src="https://img.shields.io/badge/bspwm-f9e2af?style=for-the-badge&logo=linux&logoColor=1e1e2e&labelColor=f9e2af" alt="bspwm"/>
-    <img src="https://img.shields.io/badge/Polybar-f9e2af?style=for-the-badge&logo=linux&logoColor=1e1e2e&labelColor=f9e2af" alt="Polybar"/>
-    <img src="https://img.shields.io/badge/Rofi-f9e2af?style=for-the-badge&logo=linux&logoColor=1e1e2e&labelColor=f9e2af" alt="Rofi"/>
+    <img src="https://img.shields.io/badge/CachyOS-f9e2af?style=for-the-badge&logo=archlinux&logoColor=1e1e2e&labelColor=f9e2af" alt="CachyOS"/>
+    <img src="https://img.shields.io/badge/Hyprland-f9e2af?style=for-the-badge&logo=wayland&logoColor=1e1e2e&labelColor=f9e2af" alt="Hyprland"/>
+    <img src="https://img.shields.io/badge/Alacritty-f9e2af?style=for-the-badge&logo=alacritty&logoColor=1e1e2e&labelColor=f9e2af" alt="Alacritty"/>
+    <img src="https://img.shields.io/badge/Zsh_P10k-f9e2af?style=for-the-badge&logo=gnu-bash&logoColor=1e1e2e&labelColor=f9e2af" alt="Zsh P10k"/>
+    <img src="https://img.shields.io/badge/Obsidian-f9e2af?style=for-the-badge&logo=obsidian&logoColor=1e1e2e&labelColor=f9e2af" alt="Obsidian"/>
+    <img src="https://img.shields.io/badge/Graphify_AI-f9e2af?style=for-the-badge&logo=openai&logoColor=1e1e2e&labelColor=f9e2af" alt="Graphify AI"/>
   </p>
+
 </div>
 
 ---
 
-### `$ gh stats`
+### 📊 GitHub Stats
 
 <div align="center">
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zaincyty&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6&v=10" height="165" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaincyty&show_icons=true&theme=catppuccin&hide_border=true&count_private=true" alt="Zainul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaincyty&layout=compact&theme=catppuccin&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zaincyty/zaincyty/output/github-contribution-grid-snake.svg" alt="github contribution grid snake"/>
-</div>
-
----
-
-### $ certifications
-
-**IBM SkillsBuild**
-- Build an AI Agent — `04 Jul 2026` • [Verify Credly](https://www.credly.com/go/mGk0SmWX)
-- Intelligent by Design: Build an AI Agent — `04 Jul 2026` • 3.5 hrs • [View Certificate](./achieve/Completion%20Certificate%20_%20SkillsBuild3.pdf)
-- Introduction to Large Language Models — `02 Jul 2026` • 1.5 hrs • [View Certificate](./achieve/Completion%20Certificate%20_%20SkillsBuild.pdf)
-- Lab: Troubleshoot Your Code Using IBM Bob — `02 Jul 2026` • 30 mins • [View Certificate](./achieve/Completion%20Certificate%20_%20SkillsBuild2.pdf)
-
----
-
-<div align="center">
-  <sub><code>// Talk is cheap. Show me the code. — Linus Torvalds</code></sub>
+  <sub>Built with ❤️ on CachyOS + Hyprland</sub>
 </div>
