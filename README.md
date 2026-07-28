@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="neofetch.svg?v=5" width="800" alt="neofetch"/>
+  <img src="neofetch.svg?v=6" width="800" alt="neofetch"/>
 </div>
 
 <br/>
@@ -36,27 +36,27 @@
   <h3>Tech Stack & Tools</h3>
   
   <p>
-    <img src="https://img.shields.io/badge/TypeScript-cba6f7?style=for-the-badge&logo=typescript&logoColor=1e1e2e&labelColor=cba6f7" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/JavaScript-cba6f7?style=for-the-badge&logo=javascript&logoColor=1e1e2e&labelColor=cba6f7" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Java_(Learning)-fab387?style=for-the-badge&logo=openjdk&logoColor=1e1e2e&labelColor=fab387" alt="Java"/>
-    <img src="https://img.shields.io/badge/HTML5-cba6f7?style=for-the-badge&logo=html5&logoColor=1e1e2e&labelColor=cba6f7" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-cba6f7?style=for-the-badge&logo=css3&logoColor=1e1e2e&labelColor=cba6f7" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/TypeScript-cba6f7?style=flat-square&logo=typescript&logoColor=1e1e2e&labelColor=313244" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-cba6f7?style=flat-square&logo=javascript&logoColor=1e1e2e&labelColor=313244" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Java_(Learning)-fab387?style=flat-square&logo=openjdk&logoColor=1e1e2e&labelColor=313244" alt="Java"/>
+    <img src="https://img.shields.io/badge/HTML5-cba6f7?style=flat-square&logo=html5&logoColor=1e1e2e&labelColor=313244" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-cba6f7?style=flat-square&logo=css3&logoColor=1e1e2e&labelColor=313244" alt="CSS3"/>
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Next.js-89b4fa?style=for-the-badge&logo=nextdotjs&logoColor=1e1e2e&labelColor=89b4fa" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/React-89b4fa?style=for-the-badge&logo=react&logoColor=1e1e2e&labelColor=89b4fa" alt="React"/>
-    <img src="https://img.shields.io/badge/Svelte-89b4fa?style=for-the-badge&logo=svelte&logoColor=1e1e2e&labelColor=89b4fa" alt="Svelte"/>
-    <img src="https://img.shields.io/badge/Node.js-89b4fa?style=for-the-badge&logo=nodedotjs&logoColor=1e1e2e&labelColor=89b4fa" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Bun-89b4fa?style=for-the-badge&logo=bun&logoColor=1e1e2e&labelColor=89b4fa" alt="Bun"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-89b4fa?style=for-the-badge&logo=tailwindcss&logoColor=1e1e2e&labelColor=89b4fa" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Next.js-89b4fa?style=flat-square&logo=nextdotjs&logoColor=1e1e2e&labelColor=313244" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/React-89b4fa?style=flat-square&logo=react&logoColor=1e1e2e&labelColor=313244" alt="React"/>
+    <img src="https://img.shields.io/badge/Svelte-89b4fa?style=flat-square&logo=svelte&logoColor=1e1e2e&labelColor=313244" alt="Svelte"/>
+    <img src="https://img.shields.io/badge/Node.js-89b4fa?style=flat-square&logo=nodedotjs&logoColor=1e1e2e&labelColor=313244" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Bun-89b4fa?style=flat-square&logo=bun&logoColor=1e1e2e&labelColor=313244" alt="Bun"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-89b4fa?style=flat-square&logo=tailwindcss&logoColor=1e1e2e&labelColor=313244" alt="Tailwind CSS"/>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/CachyOS-f9e2af?style=for-the-badge&logo=archlinux&logoColor=1e1e2e&labelColor=f9e2af" alt="CachyOS"/>
-    <img src="https://img.shields.io/badge/Hyprland-f9e2af?style=for-the-badge&logo=wayland&logoColor=1e1e2e&labelColor=f9e2af" alt="Hyprland"/>
-    <img src="https://img.shields.io/badge/Alacritty-f9e2af?style=for-the-badge&logo=alacritty&logoColor=1e1e2e&labelColor=f9e2af" alt="Alacritty"/>
-    <img src="https://img.shields.io/badge/Zsh_P10k-f9e2af?style=for-the-badge&logo=gnu-bash&logoColor=1e1e2e&labelColor=f9e2af" alt="Zsh P10k"/>
+    <img src="https://img.shields.io/badge/CachyOS-f9e2af?style=flat-square&logo=archlinux&logoColor=1e1e2e&labelColor=313244" alt="CachyOS"/>
+    <img src="https://img.shields.io/badge/Hyprland-f9e2af?style=flat-square&logo=wayland&logoColor=1e1e2e&labelColor=313244" alt="Hyprland"/>
+    <img src="https://img.shields.io/badge/Alacritty-f9e2af?style=flat-square&logo=alacritty&logoColor=1e1e2e&labelColor=313244" alt="Alacritty"/>
+    <img src="https://img.shields.io/badge/Zsh_P10k-f9e2af?style=flat-square&logo=gnu-bash&logoColor=1e1e2e&labelColor=313244" alt="Zsh P10k"/>
   </p>
 </div>
 
