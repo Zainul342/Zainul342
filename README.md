@@ -62,16 +62,8 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zaincyty&theme=catppuccin&hide_border=true" alt="Zainul's GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaincyty&theme=catppuccin&hide_border=true" alt="Zainul's Activity Graph" />
+  <img src="https://raw.githubusercontent.com/zaincyty/zaincyty/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </div>
 
 <br/>
