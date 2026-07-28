@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="neofetch.svg?v=6" width="800" alt="neofetch"/>
+  <img src="neofetch.svg?v=7" width="800" alt="neofetch"/>
 </div>
 
 <br/>
@@ -62,11 +62,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaincyty&show_icons=true&theme=catppuccin&hide_border=true&count_private=true" alt="Zainul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaincyty&layout=compact&theme=catppuccin&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=zaincyty&theme=catppuccin&hide_border=true" alt="Zainul's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaincyty&theme=catppuccin&hide_border=true" alt="Zainul's Activity Graph" />
 </div>
 
 <br/>
