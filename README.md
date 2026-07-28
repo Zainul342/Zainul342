@@ -1,4 +1,10 @@
 <div align="center">
+  <video src="https://raw.githubusercontent.com/zaincyty/zaincyty/main/intro.mp4" autoplay loop muted playsinline width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);"></video>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="neofetch.svg?v=3" width="800" alt="neofetch"/>
 </div>
 
