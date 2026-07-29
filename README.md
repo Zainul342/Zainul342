@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="intro.gif" width="800" alt="intro video animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" />
+  <img src="intro-v2.gif?v=2" width="800" alt="intro video animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" />
 </div>
 
 <br/>
